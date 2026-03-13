@@ -1,10 +1,5 @@
 <div align="center">
 
-
-</div>
-
----
-
 ### 💫︲Ciutke o mnie:
 
 **Hej siemka**, jestem vyloth__!
@@ -16,7 +11,7 @@ Boty na zamówienię, **robię już od __ponad roku__**!
 ### 🌐︲Socialki:
 
 [![Fluxis Studio™](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fluxis)
-[![Profile Views](https://visitcount.itsvg.in/api?id=realvyloth&icon=0&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=realvyloth&icon=0&color=6)](https://visitcount.itsvg.in)
 
 ---
 
@@ -45,16 +40,6 @@ Boty na zamówienię, **robię już od __ponad roku__**!
 
 ### 📊︲GitHub Stats:
 
-<div align="center">
-
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=realvyloth&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=realvyloth&icon=0&color=6)](https://visitcount.itsvg.in)
+![](https://nirzak-streak-stats.vercel.app/?user=realvyloth&theme=dark&hide_border=false)<br/>
 
 </div>
