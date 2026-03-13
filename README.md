@@ -11,8 +11,7 @@ Boty na zamówienię, **robię już od __ponad roku__**!
 ### 🌐︲Socialki:
 
 [![Fluxis Studio™](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fluxis)
-[![](https://visitcount.itsvg.in/api?id=realvyloth&icon=0&color=6)](https://visitcount.itsvg.in)
-
+[![Profile Views](https://visitcount.itsvg.in/api?id=realvyloth&icon=0&color=6)](https://visitcount.itsvg.in)
 ---
 
 ### 💻︲Tech Stack:
