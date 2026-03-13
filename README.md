@@ -11,7 +11,7 @@ Boty na zamówienię, **robię już od __ponad roku__**!
 ### 🌐︲Socialki:
 
 [![Fluxis Studio™](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fluxis)
-![Profile Views](https://komarev.com/ghpvc/?username=realvyloth&style=for-the-badge&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=realvyloth&style=flat&color=blue)
 
 ---
 
