@@ -38,7 +38,7 @@ Boty na zamówienię, **robię już od __ponad roku__**!
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
-![Pterodactyl](https://img.shields.io/badge/Pterodactyl-0E4688?style=flat&logoColor=white)
+![Pterodactyl](https://img.shields.io/badge/Pterodactyl-0E4688?style=flat&logo=condaforge&logoColor=white)
 
 ##
 
