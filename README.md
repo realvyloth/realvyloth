@@ -14,8 +14,6 @@ Boty na zamówienię, **robię już od __ponad roku__**!
 [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/vy10th)
 ![Profile Views](https://komarev.com/ghpvc/?username=realvyloth&style=flat&color=blue)
 
-##
-
 ### 💻︲Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
@@ -25,8 +23,6 @@ Boty na zamówienię, **robię już od __ponad roku__**!
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-
-##
 
 ### 🛠️︲Narzędzia:
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm&logoColor=white)
