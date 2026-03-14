@@ -6,7 +6,7 @@
 Na codzień __zajmuję się__ tworzeniem botów **na Discorda** na **__zamówienie__**. Tworzę je głównie przy biblioteki **`discord.js`**, wykonując wszystko **pod wymagania** __klientów__.
 Boty na zamówienię, **robię już od __ponad roku__**!
 
---
+---
 
 ### 🌐︲Socialki:
 
@@ -35,7 +35,7 @@ Boty na zamówienię, **robię już od __ponad roku__**!
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
--- 
+---
 
 ### 📊︲GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=realvyloth&theme=dark&hide_border=false)<br/>
