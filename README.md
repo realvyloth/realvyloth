@@ -3,7 +3,7 @@
 ### 💫︲Ciutke o mnie:
 
 **Hej siemka**, jestem vyloth__!
-Na codzień __zajmuję się__ tworzeniem botów **na Discorda** na **__zamówienie__**. Tworzę je używając przy biblioteke **`discord.js`**, wykonując wszystko **pod wymagania** __klientów__.
+Na codzień __zajmuję się__ tworzeniem botów **na Discorda** na **__zamówienie__**. Tworzę je używając biblioteki **`discord.js`**, wykonując wszystko **pod wymagania** __klientów__.
 Boty na zamówienię, **robię już od __ponad roku__**!
 
 ##
